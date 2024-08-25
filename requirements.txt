@@ -1,3 +1,4 @@
 pybase64
 bs4
 yt_dlp
+requests
