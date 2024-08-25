@@ -1,5 +1,5 @@
 BasePage is a simple Command Line Interface (CLI) that converts web-pages to base64.
-In essence: it takes all external resources on a page (image, video, audio) and returns them all as one single file.  Instead of a folder with subfolders, a single index.html
+In essence: it takes all external resources on a page (image, video, audio) and returns them as one single file.  Instead of a folder with subfolders, a single index.html
 
 **********************************
 WARNING : this application should be
